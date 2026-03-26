@@ -11,7 +11,7 @@ When asked to create a route between two or more geo points, use this endpoint.
 - routePlaningLocations shall be in the user prompt.
 - Other usual options are
 ```
-key=${TOMTOM_API_KEY}&apiVersion=2&routeRepresentation=encodedPolyline&instructionsType=coded&language=en-US&extendedRouteRepresentation=distance&extendedRouteRepresentation=travelTime&&routeType=fast&maxAlternatives=2&guidanceVersion=2&instructionPhonetics=IPA&instructionRoadShieldReferences=all&sectionType=roadShields&sectionType=lanes&travelMode=car"
+key=${TOMTOM_API_KEY}&apiVersion=2&routeRepresentation=encodedPolyline&instructionsType=coded&language=en-US&extendedRouteRepresentation=distance&extendedRouteRepresentation=travelTime&&routeType=fast&guidanceVersion=2&instructionPhonetics=IPA&instructionRoadShieldReferences=all&sectionType=roadShields&sectionType=lanes&travelMode=car"
 ```
 
 # TomTom endpoint
